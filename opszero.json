@@ -1,0 +1,15 @@
+{
+    "name": "discuss",
+    "description": "A serverless forum like phpBB, vBulletin and Discourse.",
+    "tags": [],
+    "license": "MIT",
+    "author": "justserverless.com",
+    "email": "",
+    "archive": "output.zip",
+    "buildCommand": "make build",
+    "readme": "README.md",
+    "branch": "master",
+    "aws": {
+        "policyFiles": []
+    }
+}
